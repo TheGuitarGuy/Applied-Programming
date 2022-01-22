@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:Swift Playground/Swift Playground.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Assets.xcassets"
+      name = "Assets.xcassets">
+      <Group
+         location = "group:../../../Assets.xcassets/song-1.dataset"
+         name = "song-1.dataset">
+         <FileRef
+            location = "group:../../kenniongubler/Desktop/Applied Programming/Assets.xcassets/song-1.dataset/Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:../../kenniongubler/Desktop/Applied Programming/Assets.xcassets/song-1.dataset/song.mp3">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:../../../Assets.xcassets/song.dataset"
+         name = "song.dataset">
+         <FileRef
+            location = "group:../../kenniongubler/Desktop/Applied Programming/Assets.xcassets/song.dataset/Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:../../kenniongubler/Desktop/Applied Programming/Assets.xcassets/song.dataset/song.mp3">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:../../../Assets.xcassets/Contents.json">
+      </FileRef>
+      <FileRef
+         location = "group:../../../Assets.xcassets/song.mp3">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:main.swift">
+   </FileRef>
+   <Group
+      location = "group:New Group"
+      name = "New Group">
+   </Group>
+</Workspace>
